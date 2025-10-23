@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+audClassenv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# TensorFlow/Keras model files
+*.keras
+*.h5
+*.pb
+*.ckpt*
+
+# PyTorch model files
+*.pth
+
+# Model files
+*.pkl
+
+# Training logs
+logs/
+runs/
+tensorboard/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Data directories
+# data/
+# datasets/
