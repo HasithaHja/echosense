@@ -1,6 +1,6 @@
-fastapi[all]
-uvicorn 
-tensorflow 
-scikit-learn 
+tensorflow
+scikit-learn
 librosa
 soundfile
+streamlit
+pandas

@@ -39,3 +39,6 @@ tensorboard/
 # Data directories
 # data/
 # datasets/
+
+Debugging/
+Samples/

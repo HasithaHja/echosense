@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn 
+tensorflow 
+scikit-learn 
+librosa
+soundfile
