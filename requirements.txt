@@ -1,6 +1,0 @@
-tensorflow
-scikit-learn
-librosa
-soundfile
-streamlit
-pandas
