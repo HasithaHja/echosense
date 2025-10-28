@@ -6,7 +6,7 @@ This is a full-stack, end-to-end machine learning project that classifies enviro
 
 - **Live Backend API:** [https://hhaaraa-echosense-api.hf.space/health](https://hhaaraa-echosense-api.hf.space/health)
 - **Live Frontend UI:** [https://huggingface.co/spaces/HHaaraa/echosense](https://huggingface.co/spaces/HHaaraa/echosense)
-- **Kaggle Notebook (My Research):** [Link to your Kaggle Notebook here]
+- **Kaggle Notebook (My Research):** [Here](https://www.kaggle.com/code/hasitha28/notebookb12ce8cdd4)
 ---
 
 ## 1. Project Goal
@@ -23,7 +23,7 @@ After multiple experiments, the champion model was a **Transfer Learning model u
 - **Features:** Mel-spectrograms resized to (224, 224) and 3-channeled
 - **Final Test Accuracy:** 68.75%
 
-This model was chosen over a custom-built CNN (which achieved 66.25%) after extensive hyperparameter tuning. The full research and model comparison can be found in my [Kaggle Notebook]([Link to your Kaggle Notebook here]).
+This model was chosen over a custom-built CNN (which achieved 66.25%) after extensive hyperparameter tuning. The full research and model comparison can be found in my [Kaggle Notebook](https://www.kaggle.com/code/hasitha28/notebookb12ce8cdd4).
 
 ---
 
