@@ -1,0 +1,2 @@
+backend/model_assets/*.keras filter=lfs diff=lfs merge=lfs -text
+backend/model_assets/*.pkl filter=lfs diff=lfs merge=lfs -text
